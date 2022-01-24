@@ -1,0 +1,60 @@
+body {
+  background: darkred;
+  color: azure;
+  font-size: 16px;
+}
+
+#header-nav {
+  background: goldenrod;
+  border: 0;
+  border-radius: 0;
+}
+
+.navbar-brand {
+  padding-top: auto;
+}
+
+.navbar-brand h1 {
+  color: #557c3e;
+  text-shadow: 1px 1px 1px black;
+  font-size: 1.5em;
+  line-height: .75em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list a {
+  color: darkred;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: floralwhite;
+}
+
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid darkred;
+}
+
+
+
+
+#chicken, #beef, #sushi  {
+  width: 100%;
+  background-color: grey;
+  border: 2px solid rgb(90, 0, 0);
+  margin-bottom: 20px;
+  padding: 5px 20px 20px 20px;
+}
+
+
